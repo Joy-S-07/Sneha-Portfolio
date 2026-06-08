@@ -124,7 +124,7 @@ export default function ContactSection() {
     },
     {
       name: "Portfolio",
-      value: "Your Domain URL",
+      value: "https://snehabanik-dev.vercel.app",
       link: "#",
       icon: <Globe className="w-5 h-5" />,
     },

@@ -78,9 +78,9 @@ export default function ProjectsSection() {
                 title="Portfolio Website"
                 description="Portfolio website built using React and Tailwind CSS, showcasing my projects and skills."
                 imgSrc={p3}
-                link="https://snehabanik.github.io/Amazon-Clone/"
+                link="https://github.com/SnehaBanik/Portfolio"
                 linkText="Go to Page"
-                githubLink="https://github.com/SnehaBanik/Amazon-Clone"
+                githubLink="https://snehabanik-dev.vercel.app"
               />
             </div>
           </TimelineContent>
