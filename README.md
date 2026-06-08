@@ -237,6 +237,5 @@ The `dist/` folder contains the production-ready static files. Deploy to **Verce
 <!-- Footer wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=C3E41D&height=120&section=footer&animation=fadeIn" width="100%" />
 
-<sub>Designed & Built with ❤️ by <strong>Sneha Banik</strong></sub>
 
 </div>
